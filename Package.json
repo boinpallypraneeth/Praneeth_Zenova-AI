@@ -1,0 +1,21 @@
+{
+  "name": "zenova-ai",
+  "version": "1.0.0",
+  "description": "Zenova AI - Your Smart IT Assistant",
+  "homepage": "https://yourusername.github.io/ZenovaAI",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}
