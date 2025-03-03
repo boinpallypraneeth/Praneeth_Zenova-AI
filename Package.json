@@ -2,7 +2,7 @@
   "name": "zenova-ai",
   "version": "1.0.0",
   "description": "Zenova AI - Your Smart IT Assistant",
-  "homepage": "https://yourusername.github.io/ZenovaAI",
+  "homepage": "https://github.com/boinpallypraneeth/Praneeth_Zenova-AI",
   "scripts": {
     "start": "vite",
     "build": "vite build",
