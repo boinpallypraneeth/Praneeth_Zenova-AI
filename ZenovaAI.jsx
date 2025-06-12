@@ -10,7 +10,7 @@ export default function ZenovaAI() {
     console.log("ZenovaAI component mounted."); // Added
   }, []);
 
-  const chatbotIframeSrc = "https://ainerd44-zenova-ai-public.hf.space";
+  const chatbotIframeSrc = "https://huggingface.co/spaces/AInerd44/Zenova-AI";
 
   const handleTryZenovaAIClick = () => {
     console.log("Button clicked! Setting showChatbot to true."); // Added
